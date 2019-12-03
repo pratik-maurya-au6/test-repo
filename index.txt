@@ -1,2 +1,2 @@
 Author name: Pratik Maurya
-Topic: For understanding of Git commands
+Skills: NodeJs, ReactJs
